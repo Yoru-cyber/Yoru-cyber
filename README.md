@@ -35,6 +35,11 @@ This is a simple website where you can **add your favorite animes.**
 - ![CSS](https://img.shields.io/badge/CSS-1572B6)
 - ![Typescript](https://img.shields.io/badge/Typescript-8A2BE2)
 - ![Angular](https://img.shields.io/badge/Angular-DD0031)
+
+### [Gemini-cli 🤖](https://github.com/Yoru-cyber/MyFavoriteAnimes)
+This a **cli tool** that allows you to **chat** with **Gemini** through your **terminal**.
+- ![Python](https://img.shields.io/badge/Python-8A2BE2)
+
 <h2 align="center">My skills</h2>
 
 [![My Skills](https://skillicons.dev/icons?i=ts,js,cs,python,mysql,postgresql,mongo,angular,react,docker,html,css,git,linux)](https://skillicons.dev)
