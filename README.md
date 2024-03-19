@@ -65,5 +65,5 @@ This a **cli tool** that allows you to **chat** with **Gemini** through your **t
 <h2 align="center">Contact me</h2>
 <p align= "center">I'm always looking for new opportunities to learn and grow. If you're interested in working with me, i'd be pleased if you contact me.</p>
 
-- [Upwork](https://www.upwork.com/freelancers/~01139b0bc126f1cd16)
+- [Upwork](https://www.upwork.com/freelancers/~01139b0bc126f1cd16?viewMode=1)
 - [Gmail](mailto:carlosmendez170210@gmail.com)
