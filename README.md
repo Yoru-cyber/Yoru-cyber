@@ -36,7 +36,7 @@ This is a simple website where you can **add your favorite animes.**
 - ![Typescript](https://img.shields.io/badge/Typescript-8A2BE2)
 - ![Angular](https://img.shields.io/badge/Angular-DD0031)
 
-### [Gemini-cli 🤖](https://github.com/Yoru-cyber/MyFavoriteAnimes)
+### [Gemini-cli 🤖](https://github.com/Yoru-cyber/Gemini-cli)
 This a **cli tool** that allows you to **chat** with **Gemini** through your **terminal**.
 - ![Python](https://img.shields.io/badge/Python-8A2BE2)
 
