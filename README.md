@@ -48,7 +48,7 @@ This a **cli tool** that allows you to **chat** with **Gemini** through your **t
 
 - Backend: Python, Typescript, Javascript, C#, MySQL, PostgreSQL, MongoDB.
 - Frontend: HTML, CSS, Typescript, Javascript, React, Angular.
-- Others: Github Actions, Linux, Docker.
+- Others: Github Actions, Linux, Docker, Git.
 <p align="center">
 <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXhzbzN2emViZDlqajEydDl2bDM3bnJndnQwcTczcTh6ZTB6cW0ydSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JIX9t2j0ZTN9S/giphy.gif">
 </p>
