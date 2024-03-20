@@ -67,3 +67,4 @@ This a **cli tool** that allows you to **chat** with **Gemini** through your **t
 
 - [Upwork](https://www.upwork.com/freelancers/~01139b0bc126f1cd16?viewMode=1)
 - [Gmail](mailto:carlosmendez170210@gmail.com)
+- [LinkedIn](https://www.linkedin.com/in/carlos-m%C3%A9ndez-1a06342bb/)
