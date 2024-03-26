@@ -9,12 +9,13 @@
 
 ### [URL Shortener 🧙](https://github.com/Yoru-cyber/URL-Shortener)
 
-This is currently just an **API** that allows you to **shorten a URL.**
+This is currently just a **website** that allows you to **shorten a URL.**
 
 ### Made with:
 
 - ![Typescript](https://img.shields.io/badge/Typescript-8A2BE2)
 - ![Fastify](https://img.shields.io/badge/Fastify-339933)
+- ![Astro](https://img.shields.io/badge/Astro-CC5531)
 
 ### [Currency API 💱](https://github.com/Yoru-cyber/CurrencyAPI)
 
@@ -28,7 +29,7 @@ This is an **API** that uses **web scraping** to get different currencies.
 
 ### [My Favorites Animes 📚](https://github.com/Yoru-cyber/MyFavoriteAnimes)
 
-This is a simple website where you can **add your favorite animes.**
+This is a simple website where you can **add your favorites animes.**
 
 ### Made with:
 
