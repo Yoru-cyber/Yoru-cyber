@@ -44,7 +44,7 @@ This a **cli tool** that allows you to **chat** with **Gemini** through your **t
 
 <h2 align="center">My skills</h2>
 
-[![My Skills](https://skillicons.dev/icons?i=ts,js,cs,python,mysql,postgresql,mongo,angular,react,docker,html,css,git,linux)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,cs,ts,python,postgresql,mongo,react,docker,html,css,git,linux,githubactions)](https://skillicons.dev)
 
 <p align= "center"><b>Here are some of my skills:</b></p>
 
@@ -60,7 +60,7 @@ This a **cli tool** that allows you to **chat** with **Gemini** through your **t
 <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExczZndHl4Z2xzMmgwMGEyaHFwc3E1bnc4dGgyamE0YXJtNDBhamF5MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VbnUQpnihPSIgIXuZv/giphy.gif">
 </p>
 
-- I'm looking into learning more about machine learning and artificial intelligence 🖥️
+- Actively learning Kafka 🖥️
 - I'm also interested in learning more about the cloud ecosystem ☁️
 - Specifically i'm looking into learning the AWS ecosystem 🤓
 
