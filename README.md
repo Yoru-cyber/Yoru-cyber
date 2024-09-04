@@ -2,7 +2,6 @@
 <p align= "center">
 <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTBjZDRnbnJrdTRqZXllcjh5Z3ZuczFjem1yb3kwdmxwZ2NrYmMwMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/14bhmZtBNhVnIk/giphy.gif">
 </p>
-<p align="center">My portfolio: https://Yoru-cyber.github.io 🦇</p>
 <p align= "center">I'm 20 years old and i'm currently in my third year as a CS student. I long to pursue a career as a software engineer. I've worked on a variety of projects, mainly in web development.</p>
 
 ## Some of my projects
@@ -44,29 +43,29 @@ This a **cli tool** that allows you to **chat** with **Gemini** through your **t
 
 <h2 align="center">My skills</h2>
 
-[![My Skills](https://skillicons.dev/icons?i=java,cs,ts,python,postgresql,mongo,react,docker,html,css,git,linux,githubactions)](https://skillicons.dev)
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=spring,django,laravel,react,docker,git,linux" />
+  </a>
+</p>
 
-<p align= "center"><b>Here are some of my skills:</b></p>
-
-- Backend: Python, Typescript, Javascript, C#, MySQL, PostgreSQL, MongoDB.
-- Frontend: HTML, CSS, Typescript, Javascript, React, Angular.
-- Others: Github Actions, Linux, Docker, Git.
 <p align="center">
 <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXhzbzN2emViZDlqajEydDl2bDM3bnJndnQwcTczcTh6ZTB6cW0ydSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JIX9t2j0ZTN9S/giphy.gif">
 </p>
 <p align= "center">This is me btw.</p>
-<h2 align="center">My interests</h2>
+<h2 align="center">About me</h2>
 <p align="center">
 <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExczZndHl4Z2xzMmgwMGEyaHFwc3E1bnc4dGgyamE0YXJtNDBhamF5MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VbnUQpnihPSIgIXuZv/giphy.gif">
 </p>
 
-- Actively learning Kafka 🖥️
-- I'm also interested in learning more about the cloud ecosystem ☁️
-- Specifically i'm looking into learning the AWS ecosystem 🤓
+- PHP's advocate
+- I have never broke prod (yet)
+- I don't like odd numbers
 
 <h2 align="center">Contact me</h2>
 <p align= "center">I'm always looking for new opportunities to learn and grow. If you're interested in working with me, i'd be pleased if you contact me.</p>
-
-- [Upwork](https://www.upwork.com/freelancers/~01139b0bc126f1cd16?viewMode=1)
-- [Gmail](mailto:carlosmendez170210@gmail.com)
-- [LinkedIn](https://www.linkedin.com/in/carlos-m%C3%A9ndez-1a06342bb/)
+<p align="center">
+  <a href="https://www.linkedin.com/in/carlos-m%C3%A9ndez-1a06342bb/">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+</p>
