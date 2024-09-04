@@ -64,7 +64,7 @@ This a **cli tool** that allows you to **chat** with **Gemini** through your **t
 - I like FOSS 
 
 <h2 align="center">Contact me</h2>
-<p align= "center">I'm always looking for new opportunities to learn and grow. Add me and message me!.</p>
+<p align= "center">I'm always looking for new opportunities to learn and grow. Add me and message me !</p>
 <p align="center">
   <a href="https://www.linkedin.com/in/carlos-m%C3%A9ndez-1a06342bb/">
     <img src="https://skillicons.dev/icons?i=linkedin" />
