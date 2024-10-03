@@ -45,7 +45,7 @@ This a **cli tool** that allows you to **chat** with **Gemini** through your **t
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=spring,django,laravel,react,docker,git,linux" />
+    <img src="https://skillicons.dev/icons?i=spring,dotnet,laravel,angular,react,docker,git,linux" />
   </a>
 </p>
 
