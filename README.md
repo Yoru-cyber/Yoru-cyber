@@ -4,48 +4,39 @@
 </p>
 <p align= "center">I'm 20 years old and i'm currently in my third year as a CS student. I long to pursue a career as a software engineer. I've worked on a variety of projects, mainly in web development.</p>
 
-## Some of my projects
+<h2 align= "center">Personal Projects</h2>
 
-### [URL Shortener 🧙](https://github.com/Yoru-cyber/URL-Shortener)
+### [URL Shortener 🧙](https://github.com/Yoru-cyber/URL-Shortener-V2)
 
-This is currently just a **website** that allows you to **shorten a URL.**
-
-### Made with:
-
-- ![Typescript](https://img.shields.io/badge/Typescript-8A2BE2)
-- ![Fastify](https://img.shields.io/badge/Fastify-339933)
-- ![Astro](https://img.shields.io/badge/Astro-CC5531)
-
-### [Currency API 💱](https://github.com/Yoru-cyber/CurrencyAPI)
+Webapp that allows you to shorten a URL and saves it on a in-memory database.
 
 ### Made with:
 
-This is an **API** that uses **web scraping** to get different currencies.
+- ![React](https://img.shields.io/badge/React-8A2BE2)
+- ![Dotnet](https://img.shields.io/badge/Dotnet-339933)
+- ![Redis](https://img.shields.io/badge/Redis-CC5531)
+- ![docker](https://img.shields.io/badge/Docker-00B4D8)
 
-- ![Csharp](https://img.shields.io/badge/Csharp-3572B0)
-- ![dotnetcore](https://img.shields.io/badge/.Net-00B4D8)
-- ![docker](https://img.shields.io/badge/Docker-02G471F)
+### [Account System 🧮](https://github.com/Yoru-cyber/sistema-cuentas)
 
-### [My Favorites Animes 📚](https://github.com/Yoru-cyber/MyFavoriteAnimes)
-
-This is a simple website where you can **add your favorites animes.**
+A system that allows to manage the monthly incomes and expenses, it has charts support.
 
 ### Made with:
 
-- ![HTML](https://img.shields.io/badge/HTML-E34C26)
-- ![CSS](https://img.shields.io/badge/CSS-1572B6)
-- ![Typescript](https://img.shields.io/badge/Typescript-8A2BE2)
+- ![Laravel](https://img.shields.io/badge/Laravel-DD0031)
+
+
+### [E-commerce 🏪](https://github.com/Yoru-cyber/YuGiOhStore)
+This is an e-commerce webapp that allows to simulate buying Yu-Gi-Oh cards.
+- ![NestJS](https://img.shields.io/badge/NestJS-8A2BE2)
+- ![Typescript](https://img.shields.io/badge/Typescript-8B1GT2)
 - ![Angular](https://img.shields.io/badge/Angular-DD0031)
-
-### [Gemini-cli 🤖](https://github.com/Yoru-cyber/Gemini-cli)
-This a **cli tool** that allows you to **chat** with **Gemini** through your **terminal**.
-- ![Python](https://img.shields.io/badge/Python-8A2BE2)
 
 <h2 align="center">My skills</h2>
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=spring,dotnet,laravel,angular,react,docker,git,linux" />
+    <img src="https://skillicons.dev/icons?i=cs,php,typescript,dotnet,laravel,angular,react,docker,git,linux" />
   </a>
 </p>
 
