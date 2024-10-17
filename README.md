@@ -2,7 +2,7 @@
 <p align= "center">
 <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTBjZDRnbnJrdTRqZXllcjh5Z3ZuczFjem1yb3kwdmxwZ2NrYmMwMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/14bhmZtBNhVnIk/giphy.gif">
 </p>
-<p align= "center">I'm 20 years old and i'm currently in my third year as a CS student. I long to pursue a career as a software engineer. I've worked on a variety of projects, mainly in web development.</p>
+<p align= "center">I'm a CS student and i like to build stuff.</p>
 
 <h2 align= "center">Personal Projects</h2>
 
