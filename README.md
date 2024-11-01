@@ -13,7 +13,7 @@ Webapp that allows you to shorten a URL and saves it on a in-memory database.
 ### Made with:
 
 - ![React](https://img.shields.io/badge/React-8A2BE2)
-- ![Dotnet](https://img.shields.io/badge/Dotnet-339933)
+- ![ASP.NET](https://img.shields.io/badge/ASP.NET-339933)
 - ![Redis](https://img.shields.io/badge/Redis-CC5531)
 - ![docker](https://img.shields.io/badge/Docker-00B4D8)
 
