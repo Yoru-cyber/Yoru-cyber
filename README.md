@@ -6,37 +6,23 @@
 
 <h2 align= "center">Personal Projects</h2>
 
-### [URL Shortener 🧙](https://github.com/Yoru-cyber/URL-Shortener-V2)
+### [DollarData](https://github.com/Yoru-cyber/DollarData)
 
-Webapp that allows you to shorten a URL and saves it on a in-memory database.
+Web application that automates the collection, storage, and visualization of exchange rate data from the Banco Central de Venezuela (BCV) website.
 
 ### Made with:
 
-- ![React](https://img.shields.io/badge/React-8A2BE2)
-- ![ASP.NET](https://img.shields.io/badge/ASP.NET-339933)
-- ![Redis](https://img.shields.io/badge/Redis-CC5531)
+- ![Python](https://img.shields.io/badge/Python-3776AB)
+- ![Flask](https://img.shields.io/badge/Flask-000000)
+- ![SQLite](https://img.shields.io/badge/SQLite-DDDDDD)
+- ![Nginx](https://img.shields.io/badge/Nginx-8A2BE2)
 - ![docker](https://img.shields.io/badge/Docker-00B4D8)
 
-### [Account System 🧮](https://github.com/Yoru-cyber/sistema-cuentas)
-
-A system that allows to manage the monthly incomes and expenses, it has charts support.
-
-### Made with:
-
-- ![Laravel](https://img.shields.io/badge/Laravel-DD0031)
-
-
-### [E-commerce 🏪](https://github.com/Yoru-cyber/YuGiOhStore)
-This is an e-commerce webapp that allows to simulate buying Yu-Gi-Oh cards.
-- ![NestJS](https://img.shields.io/badge/NestJS-8A2BE2)
-- ![Typescript](https://img.shields.io/badge/Typescript-8B1GT2)
-- ![Angular](https://img.shields.io/badge/Angular-DD0031)
-
-<h2 align="center">My skills</h2>
+<h2 align="center">What i mostly use</h2>
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cs,php,typescript,dotnet,laravel,angular,react,docker,git,linux" />
+    <img src="https://skillicons.dev/icons?i=python,go,typescript,react,docker,git,linux,bash" />
   </a>
 </p>
 
