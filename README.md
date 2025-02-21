@@ -18,6 +18,14 @@ Web application that automates the collection, storage, and visualization of exc
 - ![Nginx](https://img.shields.io/badge/Nginx-8A2BE2)
 - ![docker](https://img.shields.io/badge/Docker-00B4D8)
 
+### [Reverse Proxy in Go](https://github.com/Yoru-cyber/GoReverseProxy)
+
+A simple and configurable reverse proxy written in Go.
+
+### Made with:
+
+- ![Go](https://img.shields.io/badge/Go-4A2FB4)
+
 <h2 align="center">What i mostly use</h2>
 
 <p align="center">
